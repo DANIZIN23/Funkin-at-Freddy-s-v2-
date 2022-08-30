@@ -1,0 +1,120 @@
+{
+	"storyName": "Your New Week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"salvage",
+			"spingap",
+			[
+				37,
+				36,
+				24
+			]
+		],
+		[
+			"nightmare",
+			"spingap",
+			[
+				37,
+				36,
+				24
+			]
+		],
+		[
+			"umbra",
+			"sb-pixel",
+			[
+				59,
+				0,
+				59
+			]
+		],
+		[
+			"just-a-theory",
+			"matpat",
+			[
+				150,
+				209,
+				98
+			]
+		],
+		[
+			"fourth-wall",
+			"scott",
+			[
+				188,
+				225,
+				250
+			]
+		],
+		[
+			"lore",
+			"matpat",
+			[
+				150,
+				209,
+				98
+			]
+		],
+		[
+			"consequences",
+			"omc",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"save-them",
+			"omc",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"tedium",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"monochrome",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"canae",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week"
+}

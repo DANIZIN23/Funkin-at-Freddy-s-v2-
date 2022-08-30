@@ -1,0 +1,48 @@
+{
+	"storyName": "funkin with pizza",
+	"hideFreeplay": false,
+	"weekBackground": "freddy",
+	"weekBefore": "afton",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"showtime!",
+			"freddy",
+			[
+				166,
+				60,
+				0
+			]
+		],
+		[
+			"after hours",
+			"freddy2",
+			[
+				166,
+				60,
+				0
+			]
+		],
+		[
+			"quintuple-quarrel",
+			"freddy2",
+			[
+				166,
+				60,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "showtime"
+}
