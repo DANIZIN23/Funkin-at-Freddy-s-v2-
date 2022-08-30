@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf_fruity.png"><SubTexture name="bf_fruity idle0000" x="0" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity idle0001" x="304" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity left0000" x="608" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity left0001" x="912" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity right0000" x="1216" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity right0001" x="1520" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity up0000" x="0" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity up0001" x="304" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity down0000" x="608" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity down0001" x="912" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mleft0000" x="1216" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mleft0001" x="1520" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mright0000" x="0" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mright0001" x="304" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mup0000" x="608" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mup0001" x="912" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mdown0000" x="1216" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity mdown0001" x="1520" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2left0000" x="0" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2left0001" x="304" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2right0000" x="608" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2right0001" x="912" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2up0000" x="1216" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2up0001" x="1520" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2down0000" x="0" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2down0001" x="304" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mleft0000" x="608" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mleft0001" x="912" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mright0000" x="1216" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mright0001" x="1520" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mup0000" x="0" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mup0001" x="304" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mdown0000" x="608" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2mdown0001" x="912" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2idle0000" x="1216" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="bf_fruity 2idle0001" x="1520" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+</TextureAtlas>

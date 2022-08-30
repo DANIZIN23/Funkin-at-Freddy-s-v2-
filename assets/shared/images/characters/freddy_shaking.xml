@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="freddy_shaking.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="JUMPSCARE0000" x="0" y="0" width="547" height="659"/>
+	<SubTexture name="JUMPSCARE0001" x="0" y="0" width="547" height="659"/>
+	<SubTexture name="JUMPSCARE0002" x="547" y="0" width="547" height="659"/>
+	<SubTexture name="JUMPSCARE0003" x="547" y="0" width="547" height="659"/>
+	<SubTexture name="JUMPSCARE0004" x="1094" y="0" width="547" height="659"/>
+	<SubTexture name="JUMPSCARE0005" x="1094" y="0" width="547" height="659"/>
+	<SubTexture name="shaking_down0000" x="0" y="659" width="547" height="658"/>
+	<SubTexture name="shaking_down0001" x="0" y="659" width="547" height="658"/>
+	<SubTexture name="shaking_down0002" x="547" y="659" width="547" height="658"/>
+	<SubTexture name="shaking_down0003" x="547" y="659" width="547" height="658"/>
+	<SubTexture name="shaking_idle0000" x="1094" y="659" width="547" height="658"/>
+	<SubTexture name="shaking_idle0001" x="1094" y="659" width="547" height="658"/>
+	<SubTexture name="shaking_idle0002" x="0" y="1317" width="547" height="658"/>
+	<SubTexture name="shaking_idle0003" x="0" y="1317" width="547" height="658"/>
+	<SubTexture name="shaking_idle0004" x="547" y="1317" width="547" height="658"/>
+	<SubTexture name="shaking_idle0005" x="547" y="1317" width="547" height="658"/>
+	<SubTexture name="shaking_idle0006" x="1094" y="1317" width="547" height="658"/>
+	<SubTexture name="shaking_idle0007" x="1094" y="1317" width="547" height="658"/>
+	<SubTexture name="shaking_left0000" x="0" y="1975" width="548" height="658"/>
+	<SubTexture name="shaking_left0001" x="0" y="1975" width="548" height="658"/>
+	<SubTexture name="shaking_left0002" x="548" y="1975" width="548" height="658"/>
+	<SubTexture name="shaking_left0003" x="548" y="1975" width="548" height="658"/>
+	<SubTexture name="shaking_right0000" x="1096" y="1975" width="548" height="658"/>
+	<SubTexture name="shaking_right0001" x="1096" y="1975" width="548" height="658"/>
+	<SubTexture name="shaking_right0002" x="0" y="2633" width="548" height="658"/>
+	<SubTexture name="shaking_right0003" x="0" y="2633" width="548" height="658"/>
+	<SubTexture name="shaking_up0000" x="548" y="2633" width="548" height="658"/>
+	<SubTexture name="shaking_up0001" x="548" y="2633" width="548" height="658"/>
+	<SubTexture name="shaking_up0002" x="1096" y="2633" width="548" height="658"/>
+	<SubTexture name="shaking_up0003" x="1096" y="2633" width="548" height="658"/>
+	<SubTexture name="shaking_up0004" x="0" y="3291" width="548" height="658"/>
+	<SubTexture name="shaking_up0005" x="0" y="3291" width="548" height="658"/>
+</TextureAtlas>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dream.png"><SubTexture name="dream idle0000" x="0" y="0" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream idle0001" x="196" y="0" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream left0000" x="392" y="0" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream left0001" x="0" y="146" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream right0000" x="196" y="146" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream right0001" x="392" y="146" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream up0000" x="0" y="292" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream up0001" x="196" y="292" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream down0000" x="392" y="292" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+<SubTexture name="dream down0001" x="0" y="438" width="196" height="146" frameX="0" frameY="0" frameWidth="196" frameHeight="146" />
+</TextureAtlas>
