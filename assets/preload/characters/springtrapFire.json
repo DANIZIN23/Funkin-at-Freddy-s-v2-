@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-186
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spingfire idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spingfire up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-160
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spingfire left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-229
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spingfire right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				-284
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spingfire down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spingfire",
+	"position": [
+		0,
+		-370
+	],
+	"healthicon": "spingap",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		171,
+		76
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

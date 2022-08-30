@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-186
+			],
+			"indices": [],
+			"fps": 2,
+			"anim": "idle",
+			"loop": true,
+			"name": "fruitygirl idle"
+		},
+		{
+			"offsets": [
+				7,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fruitygirl down"
+		},
+		{
+			"offsets": [
+				17,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fruitygirl left"
+		},
+		{
+			"offsets": [
+				-1,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fruitygirl right"
+		},
+		{
+			"offsets": [
+				34,
+				-186
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fruitygirl up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fruitygirl",
+	"position": [
+		0,
+		200
+	],
+	"healthicon": "afton-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		163,
+		87,
+		171
+	],
+	"camera_position": [
+		-160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2.55
+}

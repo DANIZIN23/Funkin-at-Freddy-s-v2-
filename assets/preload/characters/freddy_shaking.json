@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "shaking_idle"
+		},
+		{
+			"offsets": [
+				20,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "shaking_down"
+		},
+		{
+			"offsets": [
+				4,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "shaking_up"
+		},
+		{
+			"offsets": [
+				60,
+				-64
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "shaking_right"
+		},
+		{
+			"offsets": [
+				10,
+				-75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "shaking_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freddy_shaking",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "freddy2",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		95,
+		0
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

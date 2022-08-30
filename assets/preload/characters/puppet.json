@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 2,
+			"name": "dream idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 6,
+			"name": "dream down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singUP",
+			"fps": 6,
+			"name": "dream up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 6,
+			"name": "dream right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 6,
+			"name": "dream left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dream",
+	"position": [
+		0,
+		430
+	],
+	"healthicon": "matpat",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		209,
+		98
+	],
+	"camera_position": [
+		-50,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 2.60000000000002
+}

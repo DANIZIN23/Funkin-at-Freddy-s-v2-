@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "FMBF Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "FMBF Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "FMBF Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "FMBF Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "FMBF Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FMBF",
+	"position": [
+		-270,
+		-190
+	],
+	"healthicon": "spingap",
+	"flip_x": false,
+	"healthbar_colors": [
+		118,
+		171,
+		76
+	],
+	"camera_position": [
+		-10,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

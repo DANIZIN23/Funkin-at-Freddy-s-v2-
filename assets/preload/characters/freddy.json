@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				320,
+				-43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-10,
+				150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				370,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-40,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-46,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-51,
+				-42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "talk",
+			"indices": [],
+			"name": "talk"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-50
+			],
+			"anim": "BOOP",
+			"fps": 24,
+			"name": "BONK",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-67
+			],
+			"anim": "JUMP",
+			"fps": 24,
+			"name": "JUMPSCARE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/freddyShowtime",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "freddy",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		95,
+		0
+	],
+	"camera_position": [
+		10,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
